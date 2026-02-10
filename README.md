@@ -1,4 +1,5 @@
 <b>Modified Mollier Diagran</b>
+
 This program provides the capability to automatically generate isolines of the Polanyi potential of water vapor on a temperature versus moisture content chart. Additionally, isolines of relative humidity can be plotted. A double-click allows a new Polanyi potential isoline to be added.
 
 Developed by Aristov Yu.I.; ORCID: 0000-0003-1460-3972 
