@@ -4,4 +4,3 @@
 #Developed by Aristov Yu.I.; ORCID: 0000-0003-1460-3972 
 
 #Software by Polskikh D.A.; ORCID:0009-0009-4682-0104
-
