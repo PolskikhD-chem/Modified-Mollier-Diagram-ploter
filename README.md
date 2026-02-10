@@ -5,4 +5,4 @@
 
 #Software by Polskikh D.A.; ORCID:0009-0009-4682-0104
 
-![Baptiste_V9]([https://github.com/PolskikhD-chem/Modified-Mollier-Diagram-ploter/edit/main/Versions/MMDploterV001/MMDploterV001.jpg])
+![Baptiste_V9]([main/Versions/MMDploterV001/MMDploterV001.jpg])
