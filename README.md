@@ -4,3 +4,5 @@
 #Developed by Aristov Yu.I.; ORCID: 0000-0003-1460-3972 
 
 #Software by Polskikh D.A.; ORCID:0009-0009-4682-0104
+
+![Baptiste_V9](https://github.com/ciuccislab/EIS-DCT/assets/57649983/12f90a85-7af4-473d-8e04-ddd97a4a705c)
