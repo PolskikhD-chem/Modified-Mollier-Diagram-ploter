@@ -1,6 +1,6 @@
 # Modified Mollier Diagram
 
-**Automate. Visualize. Analyze.** This application generates customized Mollier (psychrometric) diagrams enhanced with **isopotential lines of the Polanyi adsorption potential (ΔF)** and standard **relative humidity isolines**. Featuring an interactive plot where double-clicking adds new `ΔF=const` lines, it is designed to streamline the analysis of adsorption and desorption processes for engineers and scientists working with desiccants, adsorbents, and humidity control systems.
+**Automate. Visualize. Analyze.** This application generates standard **relative humidity isolines** enhanced with **isopotential lines of the Polanyi adsorption potential (ΔF)**. Featuring an interactive plot where double-clicking adds new `ΔF=const` lines, it is designed to streamline the analysis of adsorption and desorption processes for engineers and scientists working with desiccants, adsorbents, and humidity control systems.
 
 Developed by Aristov Yu.I.; ORCID: 0000-0003-1460-3972 
 
