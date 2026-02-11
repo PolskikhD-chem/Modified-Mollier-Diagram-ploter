@@ -6,4 +6,6 @@ Developed by Aristov Yu.I.; ORCID: 0000-0003-1460-3972
 
 Software by Polskikh D.A.; ORCID:0009-0009-4682-0104
 
+$$ i\hbar\frac{\partial}{\partial t}\Psi(\mathbf{r},t) = \hat{H}\Psi(\mathbf{r},t) $$
+
 ![Example_MMDploter](https://raw.githubusercontent.com/PolskikhD-chem/Modified-Mollier-Diagram-ploter/main/Versions/MMDploterV001/MMDploterV001.jpg)
