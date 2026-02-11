@@ -20,7 +20,7 @@ Typically, this potential is expressed as a function of absolute temperature \($
 
 $$ΔF(P_v, T) = -RT \ln\left[\frac{P_v}{P_0(T)}\right] \quad \text{(1)}$$
 
-where \($$P_0(T)$$\) is the saturated vapor pressure of the adsorbate at temperature \($$T$$\) [1].
+where \($$P_0(T)$$\) is the saturated vapor pressure of the adsorbate at temperature \($$T$$\).
 The relationship between the temperatures is straightforward: $$t = T - 273.15 \text{ K}\$$.
 The moisture content \($$x$$\) can be calculated from the partial pressure \($$P_v$$\) by assuming both air and vapor behave as ideal gases.
 
@@ -64,4 +64,4 @@ To construct an isoline for a **fixed value of the adsorption potential $$\( \De
 3.  By repeating this calculation for a range of temperatures $$\( t \)$$ at a constant $$\( \Delta F \)$$, a single line $$\( t(x)|_{\Delta F=const} \)$$ is generated. A family of such lines, each for a different constant value of $$\( \Delta F \)$$, forms the modified diagram.
 
 ---
-*Note: Equation (6) includes a factor of 1000 to convert the result to [g water/kg dry air], a common unit. Please verify this scaling factor matches your intended output unit [g water/g dry air].*
+*Note: Equation (6) includes a factor of 1000 to convert the result to [g water/kg dry air], a common unit. Please verify this scaling factor matches your intended output unit.*
