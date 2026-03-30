@@ -10,7 +10,7 @@ Software by Polskikh D.A.; ORCID:0009-0009-4682-0104
 
 ![Example_MMDploter](https://raw.githubusercontent.com/PolskikhD-chem/Modified-Mollier-Diagram-ploter/main/Versions/MMDploterV001/MMDploterV001.jpg)
 
-# Construction of the Modified Moler Diagram
+# Construction of the Modified Mollier Diagram
 
 The construction of the modified diagram involves calculating a set of lines $$\( t(x)|_{\Delta F=const} \)$$. These lines correspond to constant values of the Polanyi adsorption potential \($$\Delta F[t(x)] \$$) in the coordinates of the conventional Mollier diagram: air temperature \($$t$$\) (in °C) and its moisture content \($$x$$\)  (g_water/g_dry_air).
 
